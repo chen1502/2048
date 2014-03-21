@@ -1,4 +1,3 @@
-
 import java.awt.MouseInfo;
 
 import javax.swing.JFrame;
